@@ -15,25 +15,9 @@
 <br>
 
 <div align="center">
-  <h2>Links</h1>
-</div>
-
-<div align="center">
   <a href="https://karrio.io/">Website</a>
   <span> | </span>
   <a href="https://docs.karrio.io">Docs</a>
   <span> | </span>
   <a href="https://twitter.com/karrioapi">Twitter</a>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Repositories</h1>
-</div>
-
-<div align="center">
-  <a href="https://github.com/karrioapi/karrio">Karrio Server</a>
-  <span>  |  </span>
-  <a href="https://github.com/karrioapi/karrio-dashboard">Karrio Dashboard</a>
 </div>
