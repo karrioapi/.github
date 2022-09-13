@@ -19,5 +19,7 @@
   <span> | </span>
   <a href="https://docs.karrio.io">Docs</a>
   <span> | </span>
-  <a href="https://twitter.com/karrioapi">Twitter</a>
+  <a href="https://github.com/orgs/karrioapi/discussions">Forum</a>
+  <span> | </span>
+  <a href="https://github.com/orgs/karrioapi/projects/12">Roadmap</a>
 </div>
