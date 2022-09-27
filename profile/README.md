@@ -1,4 +1,4 @@
-![Karrio Shipping - The Universal Shipping Platfrom](https://raw.githubusercontent.com/karrioapi/karrio-dashboard/main/screenshots/dashboard.png)
+![Karrio Shipping - The Universal Shipping Platfrom](https://raw.githubusercontent.com/karrioapi/karrio/main/screenshots/dashboard.png)
 
 <div align="center">
   <h1>Karrio Shipping</h1>
