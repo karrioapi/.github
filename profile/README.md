@@ -1,7 +1,7 @@
 <a href="https://karrio.io" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/10974180/220457818-eca8d027-6eb9-4c14-b79d-9e37b1551c97.png" />
-    <img alt="Karrio Shipping - The Universal Shipping Platfrom" src="https://user-images.githubusercontent.com/10974180/220457830-d9b7d0e5-3b84-4297-bb0c-45136436d730.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/10974180/220461790-a7008191-3dd1-4d6d-ae1b-7639998aead4.svg" />
+    <img alt="Karrio Shipping - The Universal Shipping Platfrom" src="https://user-images.githubusercontent.com/10974180/220461802-47318876-5a68-4596-ab9c-d3c22d14e6c7.svg" />
   </picture>
 </a>
 
